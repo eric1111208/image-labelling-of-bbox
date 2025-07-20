@@ -1,0 +1,17 @@
+M8_Hex_screw
+M8_flat_washer
+M10_Hex_screw
+M10_flat_washer
+M8_Nut
+M10_Nut
+M8_spring_washer
+Aluminium_L_bracket
+Edge_Blur1
+surface dirt
+SSS
+head of M8_Hex_screw
+dirt surface at corner
+head of M10_Hex_screw
+gap between screw  and plate
+gap between nut and washer
+M10_Nut2
